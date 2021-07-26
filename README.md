@@ -30,4 +30,4 @@ Cf photo du montage jointe au projet.
 Installer Arduino IDE : https://www.arduino.cc/en/software
 
 Le projet requiert les bibliothèques Tiny GPS++ et rgb_lcd. Les installer à partir des sources fournis.
-Cf photo jointe au projet.
+
