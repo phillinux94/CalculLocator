@@ -25,7 +25,7 @@ Le logiciel calcule et affiche les informations suivantes :
   - Connecter le module LCD à un port I2C du shield
   - Connecter le module GPS au port D2 du shield
 
-
+Cf photo du montage jointe au projet.
 
 Installer Arduino IDE : https://www.arduino.cc/en/software
 
