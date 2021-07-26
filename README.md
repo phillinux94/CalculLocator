@@ -15,6 +15,19 @@ Le logiciel calcule et affiche les informations suivantes :
   - Longitude du lieu
   - Latitude du lieu
   - Altitude du lieu
-  - Nombre de satellites (GPS) utilisés
+  - Nombre de   satellites (GPS) utilisés
   - Locator du lieu
 
+
+# Montage
+
+  - Connecter le shield Grove à l'arduino Uno.
+  - Connecter le module LCD à un port I2C du shield
+  - Connecter le module GPS au port D2 du shield
+
+
+
+Installer Arduino IDE : https://www.arduino.cc/en/software
+
+Le projet requiert les bibliothèques Tiny GPS++ et rgb_lcd. Les installer à partir des sources fournis.
+Cf photo jointe au projet.
