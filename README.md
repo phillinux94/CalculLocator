@@ -1,4 +1,4 @@
-# CalculLocator
+# Calcul Locator Arduino Uno
 
 # Calcul du Locator par Géolocalisation
 
